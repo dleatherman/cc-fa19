@@ -13,6 +13,10 @@ This is the website for Core Interaction, Section I. This is an introductory int
 
 The class meets on Tuesdays from 7 to 9:40PM in 2 W 13th, Room 1006.
 
+### CD @ Parsons App
+
+Open to <a href="https://cdparsons.glideapp.io/" target="_blank">cdparsons.glideapp.io</a> and save this app to your home screens.
+
 ### Contact
 
 Dan Leatherman<br><a href="mailto:leatherd@newschool.edu">leatherd@newschool.edu</a>
