@@ -1,32 +1,23 @@
 ---
-title: About us
-date: 2017-01-01T00:00:00.000Z
+title: Course Info
+date: 2017-08-31T00:00:00.000Z
 permalink: /about/index.html
-navtitle: About
+navtitle: Course Info
 tags:
   - nav
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+### Overview
 
-## Our services
+This is the website for Core Interaction, Section I. This is an introductory interactive design class taught by <a href="http://danleatherman.com/">Dan Leatherman</a>. All assignments, notes, readings, and other materials will be housed on this website.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The class meets on Tuesdays from 7 to 9:40PM in 2 W 13th, Room 1006.
 
-### Blue-sky thinking
+### Contact
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Dan Leatherman<br><a href="mailto:leatherd@newschool.edu">leatherd@newschool.edu</a>
 
-#### Management frameworks
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+### Credits
 
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+This website is built using <a href="https://11ty.io/">Eleventy</a> and hosted on <a href="https://netlify.com/">Netlify</a>. Type is set in <a href="https://fonts.google.com/specimen/Karla">Karla</a> and <a href="https://fonts.google.com/specimen/Space+Mono">Space Mono</a>. You can view the source code of this website at <a href="https://github.com/dleatherman/ci-fa19">https://github.com/dleatherman/cc-fa19</a>.
