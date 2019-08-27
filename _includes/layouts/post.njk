@@ -4,12 +4,9 @@ section: post
 ---
 
 <article>
-  <h1>{{ title }}</h1>
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
-    </small>
-  </p>
+  <h1>{{ title }} <small><time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time></small></h1>
+
+  <h3>Class Agenda</h3>
 
   {{ layoutContent | safe }}
 

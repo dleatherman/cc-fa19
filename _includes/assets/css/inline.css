@@ -1,6 +1,7 @@
 :root {
 	--white: white;
 	--black: #333;
+	--gray: #777;
 	--blue: blue;
 }
 
@@ -25,6 +26,12 @@ body {
 
 main {
 	max-width: 37.5em;
+	margin: 0 15px;
+}
+
+header,
+footer {
+	margin: 0 15px;
 }
 
 p,
@@ -74,9 +81,13 @@ pre {
 	margin: .5em 0;
 }
 
-ul {
+nav ul {
 	padding: 0;
-	list-style: none;
+	list-style-type: none;
+}
+
+ul {
+	padding: 0 0 0 20px;
 }
 
 /* Header Logo (style as h2) */
@@ -179,6 +190,11 @@ button {
 	background-color: var(--blue);
 	color: var(--white);
 	cursor: pointer;
+}
+
+h1 small {
+	color: var(--gray);
+	font-size: 1rem;
 }
 
 @media screen and (min-width:768px) {
