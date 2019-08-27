@@ -1,6 +1,6 @@
 ---
 layout: layouts/blog.njk
-title: Agendas
+title: Creative Computing
 tags:
   - nav
 navtitle: Agendas

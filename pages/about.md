@@ -20,4 +20,4 @@ Dan Leatherman<br><a href="mailto:leatherd@newschool.edu">leatherd@newschool.edu
 
 ### Credits
 
-This website is built using <a href="https://11ty.io/">Eleventy</a> and hosted on <a href="https://netlify.com/">Netlify</a>. Type is set in <a href="https://fonts.google.com/specimen/Karla">Karla</a> and <a href="https://fonts.google.com/specimen/Space+Mono">Space Mono</a>. You can view the source code of this website at <a href="https://github.com/dleatherman/ci-fa19">https://github.com/dleatherman/cc-fa19</a>.
+This website is built using <a href="https://11ty.io/">Eleventy</a> and hosted on <a href="https://netlify.com/">Netlify</a>. You can view the source code of this website at <a href="https://github.com/dleatherman/ci-fa19">https://github.com/dleatherman/cc-fa19</a>.
