@@ -1,6 +1,6 @@
 ---
 title: Course Info
-date: 2017-08-31T00:00:00.000Z
+date: 2019-08-31T00:00:00.000Z
 permalink: /about/index.html
 navtitle: Course Info
 tags:
