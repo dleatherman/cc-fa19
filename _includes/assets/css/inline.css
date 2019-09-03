@@ -86,7 +86,6 @@ nav ul {
 	padding: 0;
 	list-style-type: none;
 }
-
 ul {
 	padding: 0 0 0 20px;
 }
@@ -106,9 +105,16 @@ header nav ul :first-child {
 }
 
 header nav li {
-	display: inline-block;
-	margin: 0 .5em;
+	display: block;
 }
+
+@media (min-width: 40em) {
+	nav ul li {
+		display: inline-block;
+		margin: 0 .5em;
+	}
+}
+
 
 header nav li a[href]:not(:hover) {
 	text-decoration: none;
