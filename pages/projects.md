@@ -9,7 +9,7 @@ tags:
 
 ## 1. Project Archive
 
-Create a website to navigate to each of the projects created in this class.
+Create a website that will serve as navigation to each of the projects created in this class.
 
 ## 2. HTML Prose
 

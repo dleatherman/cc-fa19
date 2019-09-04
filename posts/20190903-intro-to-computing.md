@@ -17,6 +17,11 @@ tags:
 - **Work time and one-on-ones** *(1 hour)*
 
 
+# Class Review
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//IKVL-0YBAEQ' frameborder='0' allowfullscreen></iframe></div>
+
+
 ### Homework Due Today
 
 - [Email Dan](mailto:leatherd@newschool.edu) your favorite piece of work you've made along with a brief description of why (include details about form, function, etc.)
@@ -27,6 +32,8 @@ tags:
 
 - [Email Dan](mailto:leatherd@newschool.edu) your [Github](https://github.com) username if you haven't already
 - Read [What is Code?](https://prmlg.ht/2oeHTsP) and document a [discussion question](https://prmlg.ht/2kgt9vc)
-- Begin [Project Archive](/projects/) with your about page
-  - Decide on navigation structure through sketch process (consider both mobile/desktop)
-  - Begin code and come with live link by class 9/10
+- Create a `github.io` page using [this guide](https://guides.github.com/features/pages/) - *your url/repository name should be `username.github.io`*
+  - Create (on github) a simple `index.html` file for now, we will expand on this in the project archive
+- Begin [Project Archive](/projects/)
+  - Begin to think about navigation structure through sketch (consider both mobile/desktop)
+  - Begin code and come with live link that lives at `username.github.io` by class 9/10
