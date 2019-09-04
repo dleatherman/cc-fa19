@@ -31,6 +31,7 @@ tags:
 ### <a name="homework"></a>Homework Due 9/10
 
 - [Email Dan](mailto:leatherd@newschool.edu) your [Github](https://github.com) username if you haven't already
+- Submit your basic program to [canvas](https://canvas.newschool.edu/courses/1462780/assignments/7343304)
 - Read [What is Code?](https://prmlg.ht/2oeHTsP) and document a [discussion question](https://prmlg.ht/2kgt9vc)
 - Create a `github.io` page using [this guide](https://guides.github.com/features/pages/) - *your url/repository name should be `username.github.io`*
   - Create (on github) a simple `index.html` file for now, we will expand on this in the project archive
