@@ -7,14 +7,9 @@ tags:
   - nav
 ---
 
-### Overview
-
-- [Oscar Andrew](#)
-- [Sunayana Bali](#)
-- [Zijia Chen](https://nirvanaczj.github.io/)
+- [Sunayana Bali](https://sunayanabali.github.io/)
 - [Elias Grau](https://eliasgrau.github.io/)
 - [Aijia Hao](https://aiijjiia.github.io/)
-- [Edith Ting Ho](https://flexdith.github.io/)
 - [Kristy Hyun](https://kristyx418.github.io/)
 - [Christine Kim](https://christinecykim.github.io/)
 - [Sofia Martin](https://sofia-martin.github.io/)
@@ -22,4 +17,5 @@ tags:
 - [Ayesha Mirza](https://ayeshamirza14.github.io/)
 - [Isabelle Suttner](https://sutti554.github.io/)
 - [Zachary Tinubu-Karch](#)
+- [Shuming Xu](#)
 - [Hyein Yang](https://nmmdr.github.io/)
