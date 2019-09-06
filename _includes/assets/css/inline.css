@@ -66,10 +66,13 @@ main > article :first-child {
 }
 
 pre {
+	background: #eee;
+	border-radius: 5px;
+	border: 1px solid #aeaeae;
 	font-size: 14px;
 	direction: ltr;
 	text-align: left;
-	white-space: pre;
+	white-space: pre-wrap;
 	word-spacing: normal;
 	word-break: normal;
 	-moz-tab-size: 2;
@@ -80,6 +83,22 @@ pre {
 	hyphens: none;
 	padding: 1em;
 	margin: .5em 0;
+	max-width: 100%;
+	overflow: auto;
+}
+
+code {
+	background: #eee;
+	border-radius: 5px;
+	border: 1px solid #DCDCDC;
+	padding: 0 .3rem;
+}
+
+pre code {
+	background: none;
+	border-radius: none;
+	border: 0;
+	padding: 0;
 }
 
 nav ul {

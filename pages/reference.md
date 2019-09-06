@@ -6,9 +6,15 @@ navtitle: Reference
 tags:
   - nav
 ---
-## HTML / CSS / JavaScript
 
-### 1. HTML [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
+### Table of contents
+
+1. [HTML](#html)
+2. [CSS](#css)
+3. [Javascript](#js)
+4. [Webserver - Python](#webserver)
+
+### <a name="html"></a>1. HTML [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 HTML at its core is structural. It provides a machine readable document called the DOM with what *content* to display. This is central to elements we reference. Simply speaking, most elements require an open (`<>`) and close (`</>`) tag.
 
@@ -60,7 +66,7 @@ Of note:
 
 ----
 
-### 2. CSS [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
+### <a name="css"></a>2. CSS [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 CSS is the styling and presentational layer, it adds visual richness to the page on top of the structural base of HTML.
 
@@ -113,7 +119,7 @@ section {
 
 ----
 
-### 3. JavaScript [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### <a name="js"></a>3. JavaScript [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 Making an HTML page interactive requires Javascript. Using event listeners, functions, variables, we have a technology that can traverse through the DOM and we can listen for events and respond to them using JavaScript.
 
@@ -174,3 +180,12 @@ if (false) {
 - Switch Statements
 - Functions
   - returns
+
+
+### <a name="webserver"></a>4. Python Web Server [Python Reference](https://docs.python.org/2/library/simplehttpserver.html#module-SimpleHTTPServer)
+
+1. Open Terminal, make sure you are in the right directory, and paste the following command:
+```
+python -m SimpleHTTPServer 8000
+```
+2. Open your browser to `http://localhost:8000/` and you should see your `index.html` file running on a local webserver
