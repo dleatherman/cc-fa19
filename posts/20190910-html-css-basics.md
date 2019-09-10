@@ -1,5 +1,5 @@
 ---
-title: HTML CSS Basics
+title: Vision & Components
 summary: We'll be learning semantic markup and structure, basics of css, and building on the structure we created for our project archive
 date: 2019-09-10T00:00:00.000-5:00
 tags:
@@ -10,7 +10,8 @@ tags:
   - [Discussion questions](https://prmlg.ht/2kgt9vc)
 - **Video**: [Ways of Seeing: Ep 1](https://www.youtube.com/watch?v=0pDE4VX_9Kk) *(30 minutes)*
 - **Break**: *(10 minutes)*
-- **In-class exercise**: Project Archive - Component Breakdown *(30 minutes)*
+- **Video**: [North Star Approach](https://youtu.be/eAOzuUYQBf0?t=451) *(15 minutes)*
+- **In-class exercise**: Project Archive - Component Breakdown *(15 minutes)*
   - *Thinking about your project archive, what elements will you need in order to drive people to view your projects? Site navigation, project title, description, image, call to action? Consider the **north star approach**, defining your ideal and working toward building it out. Sketch (in lo-fidelity) digitally or on paper a mobile and desktop layout. Define all the different components and a brief description about each one. What is its purpose?*
 - **Workshop**: More Basics *(30 minutes)*
   - GIT
