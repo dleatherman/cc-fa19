@@ -13,12 +13,14 @@ tags:
 
 - [GitHub](https://github.com/)
 - [GitHub Pages](https://pages.github.com/)
+- [Oh Shit, Git?!](https://ohshitgit.com/) or [Dangit, Git!?](https://dangitgit.com/)
+- [Git Basics](http://rogerdudler.github.io/git-guide/)
 - [VS Code](https://code.visualstudio.com/)
 - [Chrome DevTools](https://developer.chrome.com/devtools)
 - [Stack Overflow](http://stackoverflow.com/)
 - [CodePen](http://codepen.io/)
-- [Git Basics](http://rogerdudler.github.io/git-guide/)
 - [Hacker News](https://news.ycombinator.com/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ### Contemporary Type Foundries
 

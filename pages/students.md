@@ -16,6 +16,6 @@ tags:
 - [Arman McLean](https://arman154.github.io/)
 - [Ayesha Mirza](https://ayeshamirza14.github.io/)
 - [Isabelle Suttner](https://sutti554.github.io/)
-- [Zachary Tinubu-Karch](#)
-- [Shuming Xu](#)
+- [Zachary Tinubu-Karch](https://ztinubu.github.io/)
+- [Shuming Xu](https://summmiii.github.io/)
 - [Hyein Yang](https://nmmdr.github.io/)
