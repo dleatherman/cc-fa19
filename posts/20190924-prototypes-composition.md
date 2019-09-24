@@ -6,6 +6,8 @@ tags:
 - homework
 ---
 
+- **Video**: [Ways of Seeing: Ep 1](https://www.youtube.com/watch?v=0pDE4VX_9Kk) *(30 minutes)*
+- **Break**: *(10 minutes)*
 - **Small Group Critique**: *(30 minutes)*
   - *The goal of this critique is to share challenges of going from idea to prototype.*
     - What was your approach?
@@ -19,8 +21,6 @@ tags:
   - HTML Classes and ID's
   - CSS advanced selectors
 - **Practice**: *(15 minutes)*
-- **Break**: *(10 minutes)*
-- **Video**: [Ways of Seeing: Ep 1](https://www.youtube.com/watch?v=0pDE4VX_9Kk) *(30 minutes)*
 
 
 # Class Review
