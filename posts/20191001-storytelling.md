@@ -22,4 +22,3 @@ tags:
 
 - **Reading**: [How to structure your HTML](https://prmlg.ht/2oYKyKB) ****No discussion question***
 - Upload your in-class hover exercise to [canvas](https://prmlg.ht/2p3cHjR)
-- 
