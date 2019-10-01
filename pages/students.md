@@ -12,6 +12,7 @@ tags:
 - [Aijia Hao](https://aiijjiia.github.io/)
 - [Kristy Hyun](https://kristyx418.github.io/)
 - [Christine Kim](https://christinecykim.github.io/)
+- [Xian Yu Li](https://xianyu-li.github.io/)
 - [Sofia Martin](https://sofia-martin.github.io/)
 - [Arman McLean](https://arman154.github.io/)
 - [Ayesha Mirza](https://ayeshamirza14.github.io/)
@@ -27,7 +28,8 @@ Elias Grau
 Aijia Hao
 Kristy Hyun
 Christine Kim
-Sofia Martin
+Xian Yu Li xianyu
+Sofia Martin sofia
 Arman McLean
 Ayesha Mirza
 Isabelle Suttner
