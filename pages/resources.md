@@ -21,6 +21,7 @@ tags:
 - [CodePen](http://codepen.io/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
+- [CSS Tricks Almanac](https://css-tricks.com/almanac/)
 
 ### Contemporary Type Foundries
 
