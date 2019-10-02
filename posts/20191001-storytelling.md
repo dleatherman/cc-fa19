@@ -14,6 +14,10 @@ tags:
 - **Review expectations**
 - **Work time**
 
+### Class Review
+
+<a href="https://github.com/dleatherman/dleatherman.github.io/tree/master/fa19-cc/06-hover" rel="external" target="_blank">```Source code```</a>
+
 ### Homework Due Today
 
 - Find text for your [HTML Prose](/projects/) assignment and [submit to canvas](https://prmlg.ht/2lju2Uj) along with 10-12 ideation sketches on how you will take the user on a journey of the selected text. Be able to justify in class why you chose the text you did and how you plan to take the reader on a journey.
