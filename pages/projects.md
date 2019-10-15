@@ -15,6 +15,12 @@ Create a website that will serve as navigation to each of the projects created i
 
 Find written content and present it in a simple webpage with a focus on structure, presentation, and navigation.
 
+#### Examples
+
+- http://wwwwwwwww.jodi.org/
+- http://slimedaughter.com/games/twine/frog/
+- http://www.teleportacia.org/war/
+
 ## 3. CSS Practice
 
 Through ideation and iteration, create three (3) emotionally evocative webpages. Each page should contain a shared navigation structure contextual to the medium.
