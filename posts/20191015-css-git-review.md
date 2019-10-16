@@ -16,8 +16,16 @@ tags:
 
 ### Class Review
 
-<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/oMOMzbb5Cf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<a href="https://github.com/dleatherman/dleatherman.github.io/tree/master/fa19-cc/06-hover" rel="external" target="_blank">```Source code```</a> -->
+#### Creating our template
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe width="560" height="315" src="https://youtu.be/bFCjYv5N4to" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<a href="http://github.com/dleatherman/project-template" rel="external" target="_blank">```Source code```</a>
+
+#### Starting From The Template
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe width="560" height="315" src="https://youtu.be/oPCwN7prBs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<a href="https://github.com/dleatherman/hover" rel="external" target="_blank">```Source code```</a>
 
 ### Homework Due Today
 
