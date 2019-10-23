@@ -27,5 +27,5 @@ tags:
 
 ### <a name="homework"></a>Homework Due 10/29
 
-- Emotional composition submitted on [canvas](https://prmlg.ht/2P6Bb6R)
+<!-- - Emotional composition submitted on [canvas](https://prmlg.ht/2P6Bb6R) -->
 - Submit version 2 of [HTML Prose](/projects) on [canvas](https://prmlg.ht/33SjYC1)
