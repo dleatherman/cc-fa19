@@ -138,8 +138,8 @@ Making an HTML page interactive requires Javascript. Using event listeners, func
   - Objects : contain key value pairs
 ```
 const person = {
-  firstName: Dan,
-  lastName: Leatherman
+  firstName: "Dan",
+  lastName: "Leatherman"
 };
 ```
   - Arrays
