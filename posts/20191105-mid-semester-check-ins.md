@@ -14,19 +14,21 @@ tags:
 
 ## Meeting order
 
-1. Sunayana Bali        <!--[]-->
-1. Elias Grau           <!--[]-->
-1. Aijia Hao            <!--[]-->
-1. Kristy Hyun          <!--[]-->
-1. Christine Kim        <!--[]-->
-1. Xian Yu Li           <!--[]-->
-1. Sofia Martin         <!--[]-->
-1. Arman McLean         <!--[]-->
-1. Ayesha Mirza         <!--[]-->
-1. Isabelle Suttner     <!--[]-->
-1. Zachary Tinubu-Karch <!--[]-->
-1. Shuming Xu           <!--[]-->
-1. Hyein Yang           <!--[]-->
+<!-- &#x2705; -->
+
+1. Sunayana Bali
+1. Elias Grau
+1. Aijia Hao
+1. Kristy Hyun
+1. Christine Kim
+1. Xian Yu Li
+1. Sofia Martin
+1. Arman McLean
+1. Ayesha Mirza
+1. Isabelle Suttner
+1. Zachary Tinubu-Karch
+1. Shuming Xu
+1. Hyein Yang
 
 # Class Review
 
