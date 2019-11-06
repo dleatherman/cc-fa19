@@ -16,24 +16,33 @@ tags:
 
 <!-- &#x2705; -->
 
-1. Sunayana Bali
-1. Elias Grau
-1. Aijia Hao
-1. Kristy Hyun
-1. Christine Kim
-1. Xian Yu Li
-1. Sofia Martin
-1. Arman McLean
-1. Ayesha Mirza
-1. Isabelle Suttner
-1. Zachary Tinubu-Karch
-1. Shuming Xu
-1. Hyein Yang
+1. &#x2705; Sunayana Bali
+1. &#x2705; Elias Grau
+1. &#x2705; Aijia Hao
+1. &#x2705; Kristy Hyun <!--[]-->
+1. &#x2705; Christine Kim
+1. &#x2705; Xian Yu Li
+1. &#x2705; Sofia Martin
+1. &#x2705; Arman McLean
+1. &#x2705; Ayesha Mirza
+1. &#x2705; Isabelle Suttner
+1. &#x2705; Zachary Tinubu-Karch
+1. &#x2705; Shuming Xu
+1. &#x2705; Hyein Yang
 
 # Class Review
 
-*Coming soon...*
-<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/jZsKewC7qoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> -->
+### Adding Scripts to Project Template
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/MeTwlvtjjes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<a href="https://prmlg.ht/2NkpSXn" rel="external" target="_blank">```Source code```</a>
+
+### Prompt & User Input
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/b92FzzmXItQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<a href="https://prmlg.ht/36Er7Z9" rel="external" target="_blank">```Source code```</a>
 
 ### <a name="homework"></a>Homework Due 11/12
 
