@@ -1,6 +1,6 @@
 ---
 title: More CSS & JavaScript
-summary: We will meet and discuss your grade in the class so far. We will also dive more into JavaScript and include a .js file in our project template.
+summary: We will build a basic todo app with JavaScript, localStorage, and keep data in the browser
 date: 2019-11-12T00:00:00.000-5:00
 tags:
 - homework
