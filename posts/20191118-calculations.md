@@ -13,6 +13,7 @@ tags:
    3. Add other statements for the following operations: subtract, multiply, divide
    4. Add another operation (in HTML & JavaScript) that when selected javascript to change the page entirely
    5. Style the calculator creatively with CSS
+  - [Complete example](https://dleatherman.github.io/calculator-template/)
   - [JavaScript Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 # Class Review
