@@ -15,6 +15,11 @@ tags:
    5. Style the calculator creatively with CSS
   - [Complete example](https://dleatherman.github.io/calculator-template/)
   - [JavaScript Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- **Work time on [projects](/projects)** *60 minutes*
+  - Work on outstanding assignments
+  - HTML Prose (due 12/1)
+  - Continue documentation for Project Archive
+  - Begin [Collection](/projects/) project (due 12/10)
 
 # Class Review
 
